@@ -25,7 +25,7 @@ the status of your migrations and build / edit them faster.
 You can install the package via composer:
 
 ```bash
-composer require mtolhuys/laravel-schematics
+composer require mtolhuys/laravel-schematics --dev
 ```
 
 Run `php artisan schematics:install` which will do the route caching, create vendor assets in your public folder and
@@ -147,6 +147,15 @@ This package is possible because of the effort and time of these people! ✨
             </a>
             <br/>
             <a>Design</a>
+            <br/>
+        </td>
+        <td align="center">
+            <a href="https://github.com/Dennis-Mwea">
+                <img src="https://avatars0.githubusercontent.com/u/22258295?s=400&v=4" width="100px;" alt=""/><br/>
+                <sub><b>Dennis Mwea</b></sub>
+            </a>
+            <br/>
+            <a>Contributor</a>
             <br/>
         </td>
         <td align="center">
